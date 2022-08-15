@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/mark-akom/memory-game/static/css/main.2fbf1348.css",
-    "main.js": "/mark-akom/memory-game/static/js/main.7acccb4a.js",
-    "static/media/star.svg": "/mark-akom/memory-game/static/media/star.620497238b2ab4cb1184ce1ddcd25600.svg",
-    "static/media/sad.svg": "/mark-akom/memory-game/static/media/sad.edc4ca0026233c03435fba95573480bf.svg",
-    "static/media/cool.svg": "/mark-akom/memory-game/static/media/cool.9af34a36ab8f691d450c74330ac594b4.svg",
-    "static/media/cry.svg": "/mark-akom/memory-game/static/media/cry.12bfbbc382417f497dc6c0548f4ef615.svg",
-    "static/media/smile.svg": "/mark-akom/memory-game/static/media/smile.c0426eeced6a77dc2393fa3d2080c1a2.svg",
-    "index.html": "/mark-akom/memory-game/index.html",
-    "static/media/wink.svg": "/mark-akom/memory-game/static/media/wink.7a4907cb68866c4eb3f06ccd4a70f570.svg",
-    "main.2fbf1348.css.map": "/mark-akom/memory-game/static/css/main.2fbf1348.css.map",
-    "main.7acccb4a.js.map": "/mark-akom/memory-game/static/js/main.7acccb4a.js.map"
+    "main.css": "/memory-game/static/css/main.2fbf1348.css",
+    "main.js": "/memory-game/static/js/main.8746f38b.js",
+    "static/media/star.svg": "/memory-game/static/media/star.620497238b2ab4cb1184ce1ddcd25600.svg",
+    "static/media/sad.svg": "/memory-game/static/media/sad.edc4ca0026233c03435fba95573480bf.svg",
+    "static/media/cool.svg": "/memory-game/static/media/cool.9af34a36ab8f691d450c74330ac594b4.svg",
+    "static/media/cry.svg": "/memory-game/static/media/cry.12bfbbc382417f497dc6c0548f4ef615.svg",
+    "static/media/smile.svg": "/memory-game/static/media/smile.c0426eeced6a77dc2393fa3d2080c1a2.svg",
+    "index.html": "/memory-game/index.html",
+    "static/media/wink.svg": "/memory-game/static/media/wink.7a4907cb68866c4eb3f06ccd4a70f570.svg",
+    "main.2fbf1348.css.map": "/memory-game/static/css/main.2fbf1348.css.map",
+    "main.8746f38b.js.map": "/memory-game/static/js/main.8746f38b.js.map"
   },
   "entrypoints": [
     "static/css/main.2fbf1348.css",
-    "static/js/main.7acccb4a.js"
+    "static/js/main.8746f38b.js"
   ]
 }
