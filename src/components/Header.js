@@ -1,3 +1,4 @@
+import '../styles/header-styles.css'
 
 const Header = ({ currentScore, bestScore }) => {
   return (
