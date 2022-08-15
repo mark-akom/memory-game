@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Header from "./components/Header";
-import Card from "./components/Card";
+import CardsList from "./components/CardsList";
 import list from "./data";
 import './styles/app-styles.css'
 
@@ -45,13 +45,7 @@ function App() {
   return (
     <div className="App">
       <Header currentScore={currentScore} bestScore={bestScore} />
-      <section className="cards-list">
-        {
-          listItems.map(cardData => {
-            return <Card cardData={cardData} key={cardData.id} updateScores={updateScores} />
-          })
-        }
-      </section>
+      <CardsList listItems={listItems} updateScores={updateScores} />
     </div>
   );
 }
